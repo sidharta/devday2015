@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "devday",
+    "packageName": "com.devday",
+    "packageFolder": "com/devday",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "3a8381e0917877041b8e9365ff881635f3155326",
+    "testFrameworks": []
+  }
+}
